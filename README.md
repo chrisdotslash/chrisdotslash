@@ -2,7 +2,7 @@
 
 ### 🚀 Linguist turned software engineer passionate about learning and building things.
 
-👯 I’m open to collaborate on front and back-end projects (esp. open source) involving a language or linguistics background, NLP, and AI.
+👯 I’m open to collaborate on open-source projects involving a linguistics background, NLP, and AI.
 
 💬 Ask me about how natural languages work, Polish, or Slavic languages.
 
