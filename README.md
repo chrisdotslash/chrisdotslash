@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👏
+
+I'm a linguist turned software engineer passionate about learning and building things.
+
+👯 I’m open to collaborate on front and back-end projects (esp. open source) involving a language or linguistics background, NLP, and AI.
+
+💬 Ask me about how natural languages work, Polish, or Slavic languages.
+
+📫 How to reach me: [@chriseborowski](https://twitter.com/chriseborowski) (Twitter) / [@chriseborowski](https://www.linkedin.com/in/chriseborowski) (LinkedIn)
 
 <!--
 **chriseborowski/chriseborowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
