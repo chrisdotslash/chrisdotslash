@@ -1,6 +1,6 @@
 # Hi there, I'm Chris! 👏
 
-### 🚀 Linguist turned software engineer passionate about learning and building things.
+### 🚀 Linguist-turned-software engineer passionate about learning and building things.
 
 👯 I’m open to collaborate on open-source projects involving a linguistics background, NLP, and AI.
 
