@@ -4,9 +4,14 @@
 
 👯 I’m open to collaborate on open-source projects involving a linguistics background, NLP, and AI.
 
-💬 Ask me about how natural languages work, Polish, or Slavic languages.
+💬 Ask me about how natural language works, Polish, or NLP tools involving Slavic languages.
 
-📫 How to reach me: [@chriseborowski](https://twitter.com/chriseborowski) (Twitter) / [@chriseborowski](https://www.linkedin.com/in/chriseborowski) (LinkedIn)
+📫 Reach or follow me *@chriseborowski* on:
+* [GitHub](https://github.com/chriseborowski)
+* [Twitter](https://twitter.com/chriseborowski)
+* [T2](https://t2.social/chriseborowski)
+* [Replit](https://replit.com/@chriseborowski)
+* [LinkedIn](https://www.linkedin.com/in/chriseborowski)
 
 <!--
 **chriseborowski/chriseborowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
