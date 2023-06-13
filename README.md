@@ -17,7 +17,7 @@
   * [GitHub repo](https://github.com/chriseborowski/fahrenheit-to-celsius)
   * [Live demo](https://replit.com/@chriseborowski/Fahrenheit-to-Celsius-temperature-converter)
 
-📫 Reach or follow me *@chriseborowski* on:
+📫 Reach or follow me **@chriseborowski** on:
 * [GitHub](https://github.com/chriseborowski)
 * [Twitter](https://twitter.com/chriseborowski)
 * [T2](https://t2.social/chriseborowski)
