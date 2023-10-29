@@ -1,6 +1,6 @@
 # Hi there, I'm Chris! 👋
 
-👨‍💻 **I'm a linguist and software developer with experience in JavaScript, Python, and Git. I'm passionate about learning and building things.**
+👨‍💻 **I'm a linguist and software developer passionate about learning and building things, with experience in JavaScript, Python, and Git.**
 
 🤝 I'm interested in language-driven approaches to natural language processing and open to collaborate on NLP and AI projects.
 
@@ -15,9 +15,6 @@
 - [x] **Quality Air** (Python) – What's the air quality in your city today?
   - [GitHub repo](https://github.com/chriseborowski/quality-air)
   - [Live demo](https://replit.com/@chriseborowski/Quality-Air)
-- [x] **Fahrenheit to Celsius** (JavaScript, Python) – How many degrees is that in Celsius?
-  - [GitHub repo](https://github.com/chriseborowski/fahrenheit-to-celsius)
-  - [Live demo](https://replit.com/@chriseborowski/Fahrenheit-to-Celsius-temperature-converter)
 
 📫 Reach or follow me **@chriseborowski** on:
 
