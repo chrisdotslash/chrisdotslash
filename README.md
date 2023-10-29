@@ -4,6 +4,11 @@
 
 🤝 I'm interested in language-driven approaches to natural language processing and open to collaborate on NLP and AI projects.
 
+⚙️ Project(s) currently in progress:
+
+- **Polish verb conjugator** (Python) – The conjugator takes a language typological approach to the problem by grouping verbs into morphologically similar categories instead of relying on statistical models or large language models (LLMs).
+  - [GitHub repo](https://github.com/chriseborowski/Polish-verb-conjugator)
+
 ⚙️ Recently completed projects:
 
 - [x] **TotalWord** (JavaScript) – Can you guess the 5-letter word in no more than six attempts? A Wordle-inspired game
