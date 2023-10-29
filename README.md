@@ -1,8 +1,8 @@
 # Hi there, I'm Chris! 👋
 
-### 👉 I'm a linguist and software developer with experience in JavaScript, Python, and Git. I'm passionate about learning and building things.
+👨‍💻 **I'm a linguist and software developer with experience in JavaScript, Python, and Git. I'm passionate about learning and building things.**
 
-🤝 I'm interested in language-driven approaches to natural language processing and open to collaborate on projects involving NLP, ML, and AI.
+🤝 I'm interested in language-driven approaches to natural language processing and open to collaborate on NLP and AI projects.
 
 ⚙️ Recently completed projects:
 
