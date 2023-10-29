@@ -21,10 +21,8 @@
   - [GitHub repo](https://github.com/chriseborowski/quality-air)
   - [Live demo](https://replit.com/@chriseborowski/Quality-Air)
 
-📫 Reach or follow me **@chriseborowski** on:
+📫 Connect with me **@chriseborowski** on:
 
-- [GitHub](https://github.com/chriseborowski)
-- [Twitter](https://twitter.com/chriseborowski)
-- [T2](https://t2.social/chriseborowski)
-- [Replit](https://replit.com/@chriseborowski)
 - [LinkedIn](https://www.linkedin.com/in/chriseborowski)
+- [GitHub](https://github.com/chriseborowski)
+- [X/Twitter](https://twitter.com/chriseborowski)
