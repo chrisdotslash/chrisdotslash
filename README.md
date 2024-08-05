@@ -4,9 +4,10 @@ Hi 👋 My name is Chris Borowski
 Software Developer in training
 ------------------------------
 
-* 🌍  I'm based in Madison, WI
-* 🚀  I'm currently working on [Wallet One: a back-end virtual credit card management app](http://https://github.com/chriseborowski/walletone)
+* 🌍  I'm based in Madison, Wisconsin
+* 🚀  I'm currently working on [Wallet One: a virtual card management app](https://github.com/chriseborowski/walletone)
 * 🧠  I'm learning Java & back-end development
+* 🔍  I'm curious about learning GoLang next
 
 ### Skills
 
