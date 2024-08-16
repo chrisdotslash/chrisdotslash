@@ -1,14 +1,14 @@
-Hi! 👋 My name is Chris Borowski and I develop software.
+Hello, world! I'm Chris and I design software.
 ===============================
 
-Software Developer
+Java/Python Software Developer
 ------------------------------
 
 * 🌍  I'm based in Madison, Wisconsin
 * 🚀  My current project is [Wallet One: a virtual card management system](https://github.com/chriseborowski/walletone)
 * 🧠  I'm learning Java & back-end development
 * 🔍  I'm curious about learning GoLang next
-* 🤝  [Let's connect](https://www.linkedin.com/in/chriseborowski/) if you're a fellow developer or are interested in software!
+* 🤝  [Let's connect](https://www.linkedin.com/in/chriseborowski/) if you're a developer or in tech!
 
 ### Skills
 
