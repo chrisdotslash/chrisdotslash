@@ -4,13 +4,7 @@ Hello, world! I'm Chris and I design software.
 Java/Python Software Developer
 ------------------------------
 
-**Summary:** Software developer passionate about back-end software engineering, building software to solve problems, and learning new programming languages. I mainly write code in Java and Python, but I'm also skilled in JavaScript, HTML/CSS, Bootstrap front-end development, SQL, and Git. If you work in tech/software, [let's connect and start a conversation](https://www.linkedin.com/in/chriseborowski)!
-
-* 🌍  I'm based in Madison, Wisconsin
-* 🚀  My current project is [Wallet One: a virtual card management system](https://github.com/chriseborowski/walletone)
-* 🧠  I'm learning Java & back-end development
-* 🔍  I'm curious about learning GoLang next
-* 🤝  [Let's connect](https://www.linkedin.com/in/chriseborowski/) if you're a developer or in tech!
+**Summary:** Software developer passionate about back-end software engineering, building software to solve problems, and learning new programming languages. I mainly write code in Java and Python, but I'm also skilled in JavaScript, HTML/CSS, Bootstrap front-end development, SQL, and Git.
 
 ### Skills
 
