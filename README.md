@@ -1,7 +1,7 @@
 Hello, world! I'm Chris.
 ===============================
 
-Software Developer + Engineer
+Software Engineer
 ------------------------------
 
 **I’m a software engineer** with a strong foundation in Java, Python, SQL, and full-stack web development, built through rigorous computer science coursework focused on data structures, algorithms, software engineering, database management, computer architecture, and operating systems. My technical knowledge is reinforced by hands-on project experience applying modern development practices to build scalable, efficient applications across both front-end and back-end environments.
