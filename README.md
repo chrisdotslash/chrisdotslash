@@ -10,5 +10,5 @@ Software Engineer
 
 **Beyond building software**, I’ve developed strong analytical, communication, and presentation skills through professional and volunteer experiences. My background as an educator has honed my ability to explain complex concepts clearly, collaborate effectively, and adapt to diverse learning and problem-solving styles. With a strong work ethic, sharp attention to detail, and laser focus, I’ve presented technical projects at the UW Data Science Institute and contributed to improving data quality for Mozilla’s Common Voice project.
 
-**You can find me** on [Threads ↗](https://www.threads.com/@chrisdotslash), [Reddit ↗](https://www.reddit.com/user/chrisdotslash/), or [GitHub ↗](https://github.com/chrisdotslash).
+**You can find me** on [Threads ↗](https://www.threads.com/@chrisdotslash), [Reddit ↗](https://www.reddit.com/user/chrisdotslash/), [GitHub ↗](https://github.com/chrisdotslash), or [Goodreads ↗](https://www.goodreads.com/chrisdotslash).
 
