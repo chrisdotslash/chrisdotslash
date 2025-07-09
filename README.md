@@ -9,3 +9,6 @@ Software Engineer
 **Most recently, I developed** a high-performance fintech application called [WalletOne](https://github.com/chriseborowski/walletone) using object-oriented programming, HashMaps, and in-memory data storage to achieve O(1) search complexity. I also built [Witter](http://github.com/chriseborowski/witter), a full-stack Django web platform with RESTful API architecture, secure multi-state user authentication, and responsive Bootstrap UI, achieving a 99/100 Lighthouse performance score.
 
 **Beyond building software**, I’ve developed strong analytical, communication, and presentation skills through professional and volunteer experiences. My background as an educator has honed my ability to explain complex concepts clearly, collaborate effectively, and adapt to diverse learning and problem-solving styles. With a strong work ethic, sharp attention to detail, and laser focus, I’ve presented technical projects at the UW Data Science Institute and contributed to improving data quality for Mozilla’s Common Voice project.
+
+**You can find me** on [Threads ↗](https://www.threads.com/@chrisdotslash), [Reddit ↗](https://www.reddit.com/user/chrisdotslash/), or [GitHub ↗](https://github.com/chrisdotslash).
+
